@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Ripped jeans",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/1.jpg",
+            "size": "XL",
+            "color": "Mavi",
+            "price": 20.99
+          },
+          {
+            "id": 2,
+            "name": "Boyfriend jeans",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/2.jpg",
+            "size": "S",
+            "color": "Mavi",
+            "price": 24.99
+          },
+          {
+            "id": 3,
+            "name": "Ripped sweatshirt",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/3.jpg",
+            "size": "XL",
+            "color": "Kırmızı",
+            "price": 29.99
+          },
+          {
+            "id": 4,
+            "name": "Denim Jacket",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/4.jpg",
+            "size": "M",
+            "color": "Yeşil",
+            "price": 40.99
+          },
+          {
+            "id": 5,
+            "name": "Longsleeve",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/5.jpg",
+            "size": "L",
+            "color": "Kırmızı",
+            "price": 120
+          },
+          {
+            "id": 6,
+            "name": "Ripped jeans",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/6.jpg",
+            "size": "XL",
+            "color": "Yeşil",
+            "price": 20.99
+          },
+          {
+            "id": 7,
+            "name": "Boyfriend jeans",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/7.jpg",
+            "size": "S",
+            "color": "Kırmızı",
+            "price": 24.99
+          },
+          {
+            "id": 8,
+            "name": "Ripped sweatshirt",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/8.jpg",
+            "size": "XL",
+            "color": "Kırmızı",
+            "price": 29.99
+          },
+          {
+            "id": 9,
+            "name": "Denim Jacket",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/9.jpg",
+            "size": "M",
+            "color": "Yeşil",
+            "price": 40.99
+          },
+          {
+            "id": 10,
+            "name": "Longsleeve",
+            "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/10.jpg",
+            "size": "L",
+            "color": "Kırmızı",
+            "price": 120
+          }
+    ]
+}

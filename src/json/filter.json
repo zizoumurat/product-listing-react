@@ -1,0 +1,19 @@
+{
+    "filters": [
+        {
+            "name": "sizes",
+            "title": "Beden Seçimi",
+            "options": ["S","M","L","XL"]
+        },
+        {
+            "name": "colors",
+            "title": "Renk Seçimi",
+            "options": ["Kırmızı", "Yeşil", "Mavi"]
+        },
+        {
+            "name": "prices",
+            "title": "Fiyat Aralığı",
+            "options": ["0-100","100-200","200-500"]
+        }
+    ]
+}
